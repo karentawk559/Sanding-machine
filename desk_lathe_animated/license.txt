@@ -1,0 +1,11 @@
+Model Information:
+* title:	Desk_lathe_Animated
+* source:	https://sketchfab.com/3d-models/desk-lathe-animated-5ba193e012a84dae822ff3c2ea7a7959
+* author:	kg007 (https://sketchfab.com/kg007)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Desk_lathe_Animated" (https://sketchfab.com/3d-models/desk-lathe-animated-5ba193e012a84dae822ff3c2ea7a7959) by kg007 (https://sketchfab.com/kg007) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
